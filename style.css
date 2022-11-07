@@ -81,3 +81,23 @@
     text-transform: uppercase;
     cursor: pointer;
 }
+
+.services{
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+
+.services h2{
+    width: 100%;
+    text-align: center;
+    margin: 30px 0;
+}
+
+
+.nos-services{
+border: 1px solid #aabb00;
+box-shadow: 0 0 10px ;
+flex-basis: 33%;
+padding: 50px;
+}
